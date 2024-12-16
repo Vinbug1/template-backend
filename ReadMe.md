@@ -81,7 +81,7 @@ Ensure you have the following installed:
    yarn start
    ```
 
-The server will run on `http://localhost:4000` by default.
+The server will run on `http://localhost:3000` by default.
 
 ---
 
